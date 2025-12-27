@@ -63,7 +63,8 @@ def main():
 
     
     st.markdown("---")
-    st.caption("1st Year Project | Built with Python & Streamlit")
+    st.caption("Built with Python & Streamlit")
 
 if __name__ == "__main__":
     main()
+
